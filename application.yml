@@ -1,0 +1,5 @@
+microservice :
+  contactservice :
+    endpoints :
+      endpoint :
+        uri : http://contactservice/contact/user/
